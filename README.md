@@ -8,4 +8,5 @@ python jumbled.py
 This will output a new scrambled word each time the script is run, like "nabana", "anabna", "nbanan", and so on.
 
 # Screenshot
-![image](https://github.com/Fadilix/Jumbled-word/assets/121851593/6af770fa-8916-4a6e-ba9e-cf5bb14bba1d)
+![image](https://github.com/Fadilix/Jumbled-word/assets/121851593/02dbdccd-85f3-4025-b771-e6e97d40f66e)
+
